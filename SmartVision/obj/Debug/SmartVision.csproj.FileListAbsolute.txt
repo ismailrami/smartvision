@@ -1,0 +1,14 @@
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\bin\Debug\SmartVision.exe.config
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\bin\Debug\SmartVision.exe
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\bin\Debug\SmartVision.pdb
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\obj\Debug\SmartVision.csprojResolveAssemblyReference.cache
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\obj\Debug\MainWindow.g.cs
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\obj\Debug\App.g.cs
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\obj\Debug\SmartVision_MarkupCompile.cache
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\obj\Debug\SmartVision_MarkupCompile.lref
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\obj\Debug\MainWindow.baml
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\obj\Debug\SmartVision.g.resources
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\obj\Debug\SmartVision.Properties.Resources.resources
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\obj\Debug\SmartVision.csproj.GenerateResource.Cache
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\obj\Debug\SmartVision.exe
+c:\users\rami\documents\visual studio 2015\Projects\SmartVision\SmartVision\obj\Debug\SmartVision.pdb
